@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-The following list of M_DISC contents encompasses the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on [UNDEFINED_DAY] (and the part of that collection which is mainly featured on this web page is named karbytes2026_1). 
+The following list of M_DISC contents encompasses the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 06_APRIL_2026 (and the part of that collection which is mainly featured on this web page is named karbytes2026_1). 
 
 As of 31_DECEMBER_2025 on 11:59PM Pacific Standard Time, karbytes2025_22 is officially determined to be in its finalized state (i.e. closed to further modifications).
 
@@ -442,7 +442,7 @@ karbytes2026_1: // folder contains exactly 38 files (approximately 21111.39 mega
 
     - zip_file_26: KARLINA_OBJECT_extension_pack_60-main.zip // 515.9 megabytes
 
-    - zip_file_27: KARLINA_OBJECT_extension_pack_61-main_06april2026.zip // 9.8 megabytes
+    - zip_file_27: KARLINA_OBJECT_extension_pack_61-main.zip // 9.8 megabytes
 
     - zip_file_28: KARLINA_OBJECT_extension_pack_62-main_06april2026.zip // 9.8 megabytes
 
