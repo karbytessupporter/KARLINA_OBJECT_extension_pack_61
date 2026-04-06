@@ -48,7 +48,7 @@ file_19: karbytes_basement_50-main.zip // SHA-256: 96b7e47e4d7da9eacb5ea9fec957b
 
 file_20: KARLINA_OBJECT_extension_pack_58-main.zip // SHA-256: 65139254179391f4a371021408f171c619cf9b8f31a069e910a5eb6f5d334051
 
-file_21: KARLINA_OBJECT_extension_pack_61-main.zip // SHA-256: a4cd43df0ae6a0b2982eb032a4ea702496498881aceaffe98b0bbce82a4e3b2d
+file_21: KARLINA_OBJECT_extension_pack_61-main.zip // SHA-256: ea7224495f917d9fdc3c292437c7f28c35b0039c85602e227c6eaa446843c504
 
 file_22: KARLINA_OBJECT_APPS-main.zip // SHA-256: ef6c27b9ff75bc56b23e881d1766791827fad78e2f0fbc62e0f89bf02c50db3c
 
